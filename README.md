@@ -1,6 +1,6 @@
 # DAMU
-### Named after a Babylonian god of healing and exorcism.
-The intent of the code in this repository is three-fold:
+### Using NLP to synthesize new insights from research publications.
+Named after a Babylonian god of healing and exorcism ("Damu binds the torn ligaments" Ebeling 1938: 115), the intent of the code in this repository is three-fold:
 <ol>
   <li>To scrape the text of research journals within different sites and searches.</li>
   <li>Since specific areas of research will contain a lot of terminology specific to themselves, to create a corpus of text from the scraped journals.</li>
