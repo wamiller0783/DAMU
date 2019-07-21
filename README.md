@@ -11,12 +11,12 @@ The initial focus of this code will be on research journals relating to cellular
 
 Files are as follows:
 <ul>
-  <li>Webscrape.ipynb</li>
+  <li><b>Webscrape.ipynb</b></li>
   <p><b>Current stage.</b> This code takes the url returned from a search of aresearch journal site and scrapes the text from the journals returned. This text will be saved to disk.</p>
   <li>BuildCorpus.ipynb</li>
   <p>Builds a corpus from the text saved by the webscraper to be utilized in NLP</p>
   <li>Vectorize.ipynb</li>
-  <p>Uses the text to vectorize the corpus</p>
+  <p>Uses the corpus to vectorize the text.</p>
   <li>Analyze.ipynb</li>
   <p>Analyis of the vectorized text will be conducted here.</p>
 </ul>
